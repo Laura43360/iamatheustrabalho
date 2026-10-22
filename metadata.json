@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Species Predictor",
+  "description": "Dashboard moderno em React e Tailwind CSS para previsão e classificação de espécies da flor Iris através de Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
